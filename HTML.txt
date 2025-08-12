@@ -1,0 +1,14 @@
+<HTML>
+    <HEAD>
+       <TITLE>HOW TO MAKE WEBPAGE<title/>
+    
+   <html/>
+   1. HTML
+   2. CSS
+   3. JavaScript
+   4. PHP
+   5. MySQL
+ 
+ <HTML>
+    <HEAD>
+        <h/> Aaron Jazz Bedes <h/>

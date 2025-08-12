@@ -1,0 +1,28 @@
+
+import java.util.Scanner;
+
+public class BSIT3_Exercise {
+    public static void main(String[] args) {
+        
+        Scanner scanner = new Scanner (System.in);
+        int currentdate = 2025;
+        int age;
+        System.out.println("Enter your Name: ");
+        String name = scanner.nextLine();
+        
+        System.out.println("Enter your Birthday: ");
+        int year = scanner.nextInt();
+       
+        age = currentdate - year;
+        
+        System.out.println("Enter your Address: ");
+        String address = scanner.nextLine();
+        
+        System.out.println("");
+        System.out.println("Name: " + name);
+        System.out.println("Birthday: " + year);
+        System.out.println("Age: " + age);
+        System.out.println("Address: " + address);
+        
+    }
+}
